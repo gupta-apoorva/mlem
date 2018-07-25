@@ -53,11 +53,11 @@ mpirun -np 4 ./laikcsr4mlem test.csr4 sino65536.sino mlem-60.out 60 0
 ```
 ### Run the CUDA implementation
 ```sh
-mpirun -np <num_tasks> ./version_[1-9] <matrix> <input> <output> <iterations> <checkpointing>
+mpirun -np <num_tasks> ./version_[1..9] <matrix> <input> <output> <iterations> <checkpointing>
 ```
 ### native mpi example
 ```sh
-mpirun -np 4 ./version_[1-9] test.csr4 sino65536.sino mlem-60.out 60 0
+mpirun -np 4 ./version_[1..9] test.csr4 sino65536.sino mlem-60.out 60 0
 ```
 
 
