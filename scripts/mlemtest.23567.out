@@ -1,0 +1,840 @@
+== LAIK-0000.00 T25/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T26/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T14/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T20/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T21/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T23/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T27/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T 1/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T22/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T18/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T 5/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T10/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T 7/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T 9/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T11/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T13/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T15/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T16/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T17/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T 0/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T 3/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T 6/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T24/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T 2/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T19/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T 4/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T12/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T 8/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T10/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T14/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T12/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T15/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T19/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T11/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T22/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T 8/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T20/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T16/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T23/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T13/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T 9/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T 7/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T24/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T17/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T18/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T21/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T 2/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T 6/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T 4/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T 0/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T 3/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T 5/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T25/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T 1/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T20/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T12/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T16/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T 2/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T 0/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T10/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T18/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T 6/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T 7/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T22/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T13/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T14/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T17/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T21/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T 4/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T 5/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T 8/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T 9/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T 3/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T19/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T11/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T15/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T 1/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T23/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T15/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T14/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T 2/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T19/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T11/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T17/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T18/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T13/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T 9/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T10/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T 3/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T 6/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T12/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T16/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T 0/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T 1/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T21/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T 5/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T20/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T 7/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T 8/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T 4/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T 5/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T 9/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T14/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T17/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T18/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T 6/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T13/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T 1/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T 2/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T 0/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T 8/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T10/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T15/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T16/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T19/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T12/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T 7/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T11/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T 4/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T 3/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T10/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T 6/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T 7/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T11/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T17/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T14/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T15/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T16/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T 5/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T 4/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T 8/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T 9/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T13/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T12/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T 2/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T 3/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T 0/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T 1/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T 0/16 0001.01                 Iteration 5: Removing ( 1 ), size 16 => 15
+== LAIK-0000.00 T 7/16 0001.01                 Iteration 5: Removing ( 1 ), size 16 => 15
+== LAIK-0000.00 T15/16 0001.01                 Iteration 5: Removing ( 1 ), size 16 => 15
+== LAIK-0000.00 T 2/16 0001.01                 Iteration 5: Removing ( 1 ), size 16 => 15
+== LAIK-0000.00 T 5/16 0001.01                 Iteration 5: Removing ( 1 ), size 16 => 15
+== LAIK-0000.00 T 9/16 0001.01                 Iteration 5: Removing ( 1 ), size 16 => 15
+== LAIK-0000.00 T10/16 0001.01                 Iteration 5: Removing ( 1 ), size 16 => 15
+== LAIK-0000.00 T14/16 0001.01                 Iteration 5: Removing ( 1 ), size 16 => 15
+== LAIK-0000.00 T 6/16 0001.01                 Iteration 5: Removing ( 1 ), size 16 => 15
+== LAIK-0000.00 T 1/16 0001.01                 Iteration 5: Removing ( 1 ), size 16 => 15
+== LAIK-0000.00 T 3/16 0001.01                 Iteration 5: Removing ( 1 ), size 16 => 15
+== LAIK-0000.00 T11/16 0001.01                 Iteration 5: Removing ( 1 ), size 16 => 15
+== LAIK-0000.00 T13/16 0001.01                 Iteration 5: Removing ( 1 ), size 16 => 15
+== LAIK-0000.00 T 4/16 0001.01                 Iteration 5: Removing ( 1 ), size 16 => 15
+== LAIK-0000.00 T 8/16 0001.01                 Iteration 5: Removing ( 1 ), size 16 => 15
+== LAIK-0000.00 T12/16 0001.01                 Iteration 5: Removing ( 1 ), size 16 => 15
+== LAIK-0000.00 T 2/14 0001.01                 Iteration 5: Removing ( 1 ), size 14 => 13
+== LAIK-0000.00 T 6/14 0001.01                 Iteration 5: Removing ( 1 ), size 14 => 13
+== LAIK-0000.00 T11/14 0001.01                 Iteration 5: Removing ( 1 ), size 14 => 13
+== LAIK-0000.00 T 3/14 0001.01                 Iteration 5: Removing ( 1 ), size 14 => 13
+== LAIK-0000.00 T 0/14 0001.01                 Iteration 5: Removing ( 1 ), size 14 => 13
+== LAIK-0000.00 T12/14 0001.01                 Iteration 5: Removing ( 1 ), size 14 => 13
+== LAIK-0000.00 T 1/14 0001.01                 Iteration 5: Removing ( 1 ), size 14 => 13
+== LAIK-0000.00 T 4/14 0001.01                 Iteration 5: Removing ( 1 ), size 14 => 13
+== LAIK-0000.00 T13/14 0001.01                 Iteration 5: Removing ( 1 ), size 14 => 13
+== LAIK-0000.00 T 5/14 0001.01                 Iteration 5: Removing ( 1 ), size 14 => 13
+== LAIK-0000.00 T 7/14 0001.01                 Iteration 5: Removing ( 1 ), size 14 => 13
+== LAIK-0000.00 T10/14 0001.01                 Iteration 5: Removing ( 1 ), size 14 => 13
+== LAIK-0000.00 T 8/14 0001.01                 Iteration 5: Removing ( 1 ), size 14 => 13
+== LAIK-0000.00 T 9/14 0001.01                 Iteration 5: Removing ( 1 ), size 14 => 13
+== LAIK-0000.00 T 2/12 0001.01                 Iteration 5: Removing ( 1 ), size 12 => 11
+== LAIK-0000.00 T 7/12 0001.01                 Iteration 5: Removing ( 1 ), size 12 => 11
+== LAIK-0000.00 T 9/12 0001.01                 Iteration 5: Removing ( 1 ), size 12 => 11
+== LAIK-0000.00 T 1/12 0001.01                 Iteration 5: Removing ( 1 ), size 12 => 11
+== LAIK-0000.00 T 5/12 0001.01                 Iteration 5: Removing ( 1 ), size 12 => 11
+== LAIK-0000.00 T 6/12 0001.01                 Iteration 5: Removing ( 1 ), size 12 => 11
+== LAIK-0000.00 T10/12 0001.01                 Iteration 5: Removing ( 1 ), size 12 => 11
+== LAIK-0000.00 T11/12 0001.01                 Iteration 5: Removing ( 1 ), size 12 => 11
+== LAIK-0000.00 T 3/12 0001.01                 Iteration 5: Removing ( 1 ), size 12 => 11
+== LAIK-0000.00 T 0/12 0001.01                 Iteration 5: Removing ( 1 ), size 12 => 11
+== LAIK-0000.00 T 4/12 0001.01                 Iteration 5: Removing ( 1 ), size 12 => 11
+== LAIK-0000.00 T 8/12 0001.01                 Iteration 5: Removing ( 1 ), size 12 => 11
+== LAIK-0000.00 T 2/10 0001.01                 Iteration 5: Removing ( 1 ), size 10 => 9
+== LAIK-0000.00 T 9/10 0001.01                 Iteration 5: Removing ( 1 ), size 10 => 9
+== LAIK-0000.00 T 1/10 0001.01                 Iteration 5: Removing ( 1 ), size 10 => 9
+== LAIK-0000.00 T 3/10 0001.01                 Iteration 5: Removing ( 1 ), size 10 => 9
+== LAIK-0000.00 T 6/10 0001.01                 Iteration 5: Removing ( 1 ), size 10 => 9
+== LAIK-0000.00 T 0/10 0001.01                 Iteration 5: Removing ( 1 ), size 10 => 9
+== LAIK-0000.00 T 5/10 0001.01                 Iteration 5: Removing ( 1 ), size 10 => 9
+== LAIK-0000.00 T 7/10 0001.01                 Iteration 5: Removing ( 1 ), size 10 => 9
+== LAIK-0000.00 T 8/10 0001.01                 Iteration 5: Removing ( 1 ), size 10 => 9
+== LAIK-0000.00 T 4/10 0001.01                 Iteration 5: Removing ( 1 ), size 10 => 9
+== LAIK-0000.00 T 0/8 0001.01                 Iteration 5: Removing ( 1 ), size 8 => 7
+== LAIK-0000.00 T 2/8 0001.01                 Iteration 5: Removing ( 1 ), size 8 => 7
+== LAIK-0000.00 T 1/8 0001.01                 Iteration 5: Removing ( 1 ), size 8 => 7
+== LAIK-0000.00 T 3/8 0001.01                 Iteration 5: Removing ( 1 ), size 8 => 7
+== LAIK-0000.00 T 4/8 0001.01                 Iteration 5: Removing ( 1 ), size 8 => 7
+== LAIK-0000.00 T 6/8 0001.01                 Iteration 5: Removing ( 1 ), size 8 => 7
+== LAIK-0000.00 T 7/8 0001.01                 Iteration 5: Removing ( 1 ), size 8 => 7
+== LAIK-0000.00 T 5/8 0001.01                 Iteration 5: Removing ( 1 ), size 8 => 7
+== LAIK-0000.00 T 2/6 0001.01                 Iteration 5: Removing ( 1 ), size 6 => 5
+== LAIK-0000.00 T 5/6 0001.01                 Iteration 5: Removing ( 1 ), size 6 => 5
+== LAIK-0000.00 T 0/6 0001.01                 Iteration 5: Removing ( 1 ), size 6 => 5
+== LAIK-0000.00 T 4/6 0001.01                 Iteration 5: Removing ( 1 ), size 6 => 5
+== LAIK-0000.00 T 1/6 0001.01                 Iteration 5: Removing ( 1 ), size 6 => 5
+== LAIK-0000.00 T 3/6 0001.01                 Iteration 5: Removing ( 1 ), size 6 => 5
+== LAIK-0000.00 T 0/4 0001.01                 Iteration 5: Removing ( 1 ), size 4 => 3
+== LAIK-0000.00 T 3/4 0001.01                 Iteration 5: Removing ( 1 ), size 4 => 3
+== LAIK-0000.00 T 1/4 0001.01                 Iteration 5: Removing ( 1 ), size 4 => 3
+== LAIK-0000.00 T 2/4 0001.01                 Iteration 5: Removing ( 1 ), size 4 => 3
+== LAIK-0000.00 T 1/2 0001.01                 Iteration 5: Removing ( 1 ), size 2 => 1
+== LAIK-0000.00 T 0/2 0001.01                 Iteration 5: Removing ( 1 ), size 2 => 1
+== LAIK-0000.00 T22/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T20/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T23/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T24/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T21/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T25/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T27/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T19/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T16/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T 1/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T 3/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T 5/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T26/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T 4/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T 8/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T14/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T15/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T17/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T18/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T12/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T13/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T 7/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T 6/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T 2/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T11/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T10/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T 9/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T 0/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T 7/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T19/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T10/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T11/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T14/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T18/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T22/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T23/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T15/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T 6/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T 9/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T12/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T13/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T17/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T20/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T21/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T 3/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T 8/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T16/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T24/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T 5/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T 2/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T25/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T 4/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T 0/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T 1/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T 2/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T 7/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T22/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T 3/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T10/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T11/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T19/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T14/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T15/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T23/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T 0/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T18/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T 4/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T17/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T20/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T 8/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T 6/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T12/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T 9/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T21/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T 5/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T16/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T 1/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T13/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T11/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T19/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T 3/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T15/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T20/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T10/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T12/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T 8/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T14/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T 0/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T 4/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T 7/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T16/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T 6/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T 9/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T21/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T 2/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T13/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T17/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T18/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T 5/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T 1/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T 4/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T 0/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T16/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T17/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T18/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T13/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T 5/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T12/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T14/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T15/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T19/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T11/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T 9/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T 3/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T 6/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T 1/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T 2/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T 7/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T 8/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T10/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T 8/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T 9/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T14/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T11/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T15/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T 6/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T 4/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T 7/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T 5/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T10/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T17/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T13/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T12/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T16/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T 2/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T 3/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T 0/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T 1/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T 0/16 0001.01                 Iteration 5: Removing ( 1 ), size 16 => 15
+== LAIK-0000.00 T 2/16 0001.01                 Iteration 5: Removing ( 1 ), size 16 => 15
+== LAIK-0000.00 T 7/16 0001.01                 Iteration 5: Removing ( 1 ), size 16 => 15
+== LAIK-0000.00 T 1/16 0001.01                 Iteration 5: Removing ( 1 ), size 16 => 15
+== LAIK-0000.00 T 6/16 0001.01                 Iteration 5: Removing ( 1 ), size 16 => 15
+== LAIK-0000.00 T 9/16 0001.01                 Iteration 5: Removing ( 1 ), size 16 => 15
+== LAIK-0000.00 T13/16 0001.01                 Iteration 5: Removing ( 1 ), size 16 => 15
+== LAIK-0000.00 T10/16 0001.01                 Iteration 5: Removing ( 1 ), size 16 => 15
+== LAIK-0000.00 T14/16 0001.01                 Iteration 5: Removing ( 1 ), size 16 => 15
+== LAIK-0000.00 T 5/16 0001.01                 Iteration 5: Removing ( 1 ), size 16 => 15
+== LAIK-0000.00 T11/16 0001.01                 Iteration 5: Removing ( 1 ), size 16 => 15
+== LAIK-0000.00 T 8/16 0001.01                 Iteration 5: Removing ( 1 ), size 16 => 15
+== LAIK-0000.00 T12/16 0001.01                 Iteration 5: Removing ( 1 ), size 16 => 15
+== LAIK-0000.00 T 3/16 0001.01                 Iteration 5: Removing ( 1 ), size 16 => 15
+== LAIK-0000.00 T 4/16 0001.01                 Iteration 5: Removing ( 1 ), size 16 => 15
+== LAIK-0000.00 T15/16 0001.01                 Iteration 5: Removing ( 1 ), size 16 => 15
+== LAIK-0000.00 T 3/14 0001.01                 Iteration 5: Removing ( 1 ), size 14 => 13
+== LAIK-0000.00 T10/14 0001.01                 Iteration 5: Removing ( 1 ), size 14 => 13
+== LAIK-0000.00 T 6/14 0001.01                 Iteration 5: Removing ( 1 ), size 14 => 13
+== LAIK-0000.00 T11/14 0001.01                 Iteration 5: Removing ( 1 ), size 14 => 13
+== LAIK-0000.00 T13/14 0001.01                 Iteration 5: Removing ( 1 ), size 14 => 13
+== LAIK-0000.00 T 1/14 0001.01                 Iteration 5: Removing ( 1 ), size 14 => 13
+== LAIK-0000.00 T 9/14 0001.01                 Iteration 5: Removing ( 1 ), size 14 => 13
+== LAIK-0000.00 T12/14 0001.01                 Iteration 5: Removing ( 1 ), size 14 => 13
+== LAIK-0000.00 T 5/14 0001.01                 Iteration 5: Removing ( 1 ), size 14 => 13
+== LAIK-0000.00 T 0/14 0001.01                 Iteration 5: Removing ( 1 ), size 14 => 13
+== LAIK-0000.00 T 2/14 0001.01                 Iteration 5: Removing ( 1 ), size 14 => 13
+== LAIK-0000.00 T 8/14 0001.01                 Iteration 5: Removing ( 1 ), size 14 => 13
+== LAIK-0000.00 T 7/14 0001.01                 Iteration 5: Removing ( 1 ), size 14 => 13
+== LAIK-0000.00 T 4/14 0001.01                 Iteration 5: Removing ( 1 ), size 14 => 13
+== LAIK-0000.00 T 0/12 0001.01                 Iteration 5: Removing ( 1 ), size 12 => 11
+== LAIK-0000.00 T 1/12 0001.01                 Iteration 5: Removing ( 1 ), size 12 => 11
+== LAIK-0000.00 T 3/12 0001.01                 Iteration 5: Removing ( 1 ), size 12 => 11
+== LAIK-0000.00 T 9/12 0001.01                 Iteration 5: Removing ( 1 ), size 12 => 11
+== LAIK-0000.00 T10/12 0001.01                 Iteration 5: Removing ( 1 ), size 12 => 11
+== LAIK-0000.00 T 2/12 0001.01                 Iteration 5: Removing ( 1 ), size 12 => 11
+== LAIK-0000.00 T 6/12 0001.01                 Iteration 5: Removing ( 1 ), size 12 => 11
+== LAIK-0000.00 T 4/12 0001.01                 Iteration 5: Removing ( 1 ), size 12 => 11
+== LAIK-0000.00 T 5/12 0001.01                 Iteration 5: Removing ( 1 ), size 12 => 11
+== LAIK-0000.00 T 7/12 0001.01                 Iteration 5: Removing ( 1 ), size 12 => 11
+== LAIK-0000.00 T 8/12 0001.01                 Iteration 5: Removing ( 1 ), size 12 => 11
+== LAIK-0000.00 T11/12 0001.01                 Iteration 5: Removing ( 1 ), size 12 => 11
+== LAIK-0000.00 T 0/10 0001.01                 Iteration 5: Removing ( 1 ), size 10 => 9
+== LAIK-0000.00 T 1/10 0001.01                 Iteration 5: Removing ( 1 ), size 10 => 9
+== LAIK-0000.00 T 9/10 0001.01                 Iteration 5: Removing ( 1 ), size 10 => 9
+== LAIK-0000.00 T 5/10 0001.01                 Iteration 5: Removing ( 1 ), size 10 => 9
+== LAIK-0000.00 T 2/10 0001.01                 Iteration 5: Removing ( 1 ), size 10 => 9
+== LAIK-0000.00 T 3/10 0001.01                 Iteration 5: Removing ( 1 ), size 10 => 9
+== LAIK-0000.00 T 6/10 0001.01                 Iteration 5: Removing ( 1 ), size 10 => 9
+== LAIK-0000.00 T 7/10 0001.01                 Iteration 5: Removing ( 1 ), size 10 => 9
+== LAIK-0000.00 T 8/10 0001.01                 Iteration 5: Removing ( 1 ), size 10 => 9
+== LAIK-0000.00 T 4/10 0001.01                 Iteration 5: Removing ( 1 ), size 10 => 9
+== LAIK-0000.00 T 0/8 0001.01                 Iteration 5: Removing ( 1 ), size 8 => 7
+== LAIK-0000.00 T 1/8 0001.01                 Iteration 5: Removing ( 1 ), size 8 => 7
+== LAIK-0000.00 T 2/8 0001.01                 Iteration 5: Removing ( 1 ), size 8 => 7
+== LAIK-0000.00 T 4/8 0001.01                 Iteration 5: Removing ( 1 ), size 8 => 7
+== LAIK-0000.00 T 5/8 0001.01                 Iteration 5: Removing ( 1 ), size 8 => 7
+== LAIK-0000.00 T 6/8 0001.01                 Iteration 5: Removing ( 1 ), size 8 => 7
+== LAIK-0000.00 T 3/8 0001.01                 Iteration 5: Removing ( 1 ), size 8 => 7
+== LAIK-0000.00 T 7/8 0001.01                 Iteration 5: Removing ( 1 ), size 8 => 7
+== LAIK-0000.00 T 2/6 0001.01                 Iteration 5: Removing ( 1 ), size 6 => 5
+== LAIK-0000.00 T 5/6 0001.01                 Iteration 5: Removing ( 1 ), size 6 => 5
+== LAIK-0000.00 T 0/6 0001.01                 Iteration 5: Removing ( 1 ), size 6 => 5
+== LAIK-0000.00 T 4/6 0001.01                 Iteration 5: Removing ( 1 ), size 6 => 5
+== LAIK-0000.00 T 1/6 0001.01                 Iteration 5: Removing ( 1 ), size 6 => 5
+== LAIK-0000.00 T 3/6 0001.01                 Iteration 5: Removing ( 1 ), size 6 => 5
+== LAIK-0000.00 T 3/4 0001.01                 Iteration 5: Removing ( 1 ), size 4 => 3
+== LAIK-0000.00 T 0/4 0001.01                 Iteration 5: Removing ( 1 ), size 4 => 3
+== LAIK-0000.00 T 2/4 0001.01                 Iteration 5: Removing ( 1 ), size 4 => 3
+== LAIK-0000.00 T 1/4 0001.01                 Iteration 5: Removing ( 1 ), size 4 => 3
+== LAIK-0000.00 T 0/2 0001.01                 Iteration 5: Removing ( 1 ), size 2 => 1
+== LAIK-0000.00 T 1/2 0001.01                 Iteration 5: Removing ( 1 ), size 2 => 1
+== LAIK-0000.00 T22/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T 0/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T 2/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T 6/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T23/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T24/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T26/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T27/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T19/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T18/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T 3/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T 5/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T25/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T11/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T15/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T 7/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T14/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T10/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T 1/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T21/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T 4/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T 8/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T17/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T16/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T20/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T 9/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T13/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T12/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T 2/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T 3/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T 7/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T15/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T19/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T23/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T10/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T11/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T 6/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T12/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T13/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T14/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T22/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T24/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T25/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T 0/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T 4/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T 5/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T16/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T18/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T 9/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T 1/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T 8/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T20/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T17/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T21/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T 2/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T 3/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T 6/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T14/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T15/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T19/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T11/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T12/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T20/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T23/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T 0/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T 4/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T22/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T 7/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T18/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T 5/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T 8/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T 9/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T10/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T13/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T16/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T21/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T 1/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T17/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T 3/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T11/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T 7/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T 4/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T 6/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T 2/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T 5/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T20/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T10/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T 0/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T19/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T 8/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T12/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T13/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T15/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T21/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T14/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T18/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T 9/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T 1/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T17/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T16/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T 5/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T 9/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T13/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T 3/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T 6/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T 1/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T 2/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T 4/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T10/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T12/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T14/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T 0/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T 7/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T 8/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T11/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T15/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T17/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T18/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T16/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T19/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T10/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T11/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T 8/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T 6/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T 7/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T 9/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T14/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T15/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T 5/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T 4/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T17/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T16/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T12/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T13/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T 2/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T 0/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T 1/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T 3/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T 0/16 0001.01                 Iteration 5: Removing ( 1 ), size 16 => 15
+== LAIK-0000.00 T 2/16 0001.01                 Iteration 5: Removing ( 1 ), size 16 => 15
+== LAIK-0000.00 T 6/16 0001.01                 Iteration 5: Removing ( 1 ), size 16 => 15
+== LAIK-0000.00 T10/16 0001.01                 Iteration 5: Removing ( 1 ), size 16 => 15
+== LAIK-0000.00 T 3/16 0001.01                 Iteration 5: Removing ( 1 ), size 16 => 15
+== LAIK-0000.00 T11/16 0001.01                 Iteration 5: Removing ( 1 ), size 16 => 15
+== LAIK-0000.00 T14/16 0001.01                 Iteration 5: Removing ( 1 ), size 16 => 15
+== LAIK-0000.00 T 1/16 0001.01                 Iteration 5: Removing ( 1 ), size 16 => 15
+== LAIK-0000.00 T13/16 0001.01                 Iteration 5: Removing ( 1 ), size 16 => 15
+== LAIK-0000.00 T 5/16 0001.01                 Iteration 5: Removing ( 1 ), size 16 => 15
+== LAIK-0000.00 T 9/16 0001.01                 Iteration 5: Removing ( 1 ), size 16 => 15
+== LAIK-0000.00 T 7/16 0001.01                 Iteration 5: Removing ( 1 ), size 16 => 15
+== LAIK-0000.00 T15/16 0001.01                 Iteration 5: Removing ( 1 ), size 16 => 15
+== LAIK-0000.00 T 8/16 0001.01                 Iteration 5: Removing ( 1 ), size 16 => 15
+== LAIK-0000.00 T12/16 0001.01                 Iteration 5: Removing ( 1 ), size 16 => 15
+== LAIK-0000.00 T 4/16 0001.01                 Iteration 5: Removing ( 1 ), size 16 => 15
+== LAIK-0000.00 T 2/14 0001.01                 Iteration 5: Removing ( 1 ), size 14 => 13
+== LAIK-0000.00 T11/14 0001.01                 Iteration 5: Removing ( 1 ), size 14 => 13
+== LAIK-0000.00 T 0/14 0001.01                 Iteration 5: Removing ( 1 ), size 14 => 13
+== LAIK-0000.00 T 8/14 0001.01                 Iteration 5: Removing ( 1 ), size 14 => 13
+== LAIK-0000.00 T12/14 0001.01                 Iteration 5: Removing ( 1 ), size 14 => 13
+== LAIK-0000.00 T10/14 0001.01                 Iteration 5: Removing ( 1 ), size 14 => 13
+== LAIK-0000.00 T 7/14 0001.01                 Iteration 5: Removing ( 1 ), size 14 => 13
+== LAIK-0000.00 T 3/14 0001.01                 Iteration 5: Removing ( 1 ), size 14 => 13
+== LAIK-0000.00 T13/14 0001.01                 Iteration 5: Removing ( 1 ), size 14 => 13
+== LAIK-0000.00 T 4/14 0001.01                 Iteration 5: Removing ( 1 ), size 14 => 13
+== LAIK-0000.00 T 6/14 0001.01                 Iteration 5: Removing ( 1 ), size 14 => 13
+== LAIK-0000.00 T 9/14 0001.01                 Iteration 5: Removing ( 1 ), size 14 => 13
+== LAIK-0000.00 T 1/14 0001.01                 Iteration 5: Removing ( 1 ), size 14 => 13
+== LAIK-0000.00 T 5/14 0001.01                 Iteration 5: Removing ( 1 ), size 14 => 13
+== LAIK-0000.00 T 1/12 0001.01                 Iteration 5: Removing ( 1 ), size 12 => 11
+== LAIK-0000.00 T 9/12 0001.01                 Iteration 5: Removing ( 1 ), size 12 => 11
+== LAIK-0000.00 T 2/12 0001.01                 Iteration 5: Removing ( 1 ), size 12 => 11
+== LAIK-0000.00 T 8/12 0001.01                 Iteration 5: Removing ( 1 ), size 12 => 11
+== LAIK-0000.00 T10/12 0001.01                 Iteration 5: Removing ( 1 ), size 12 => 11
+== LAIK-0000.00 T 0/12 0001.01                 Iteration 5: Removing ( 1 ), size 12 => 11
+== LAIK-0000.00 T 7/12 0001.01                 Iteration 5: Removing ( 1 ), size 12 => 11
+== LAIK-0000.00 T11/12 0001.01                 Iteration 5: Removing ( 1 ), size 12 => 11
+== LAIK-0000.00 T 6/12 0001.01                 Iteration 5: Removing ( 1 ), size 12 => 11
+== LAIK-0000.00 T 5/12 0001.01                 Iteration 5: Removing ( 1 ), size 12 => 11
+== LAIK-0000.00 T 3/12 0001.01                 Iteration 5: Removing ( 1 ), size 12 => 11
+== LAIK-0000.00 T 4/12 0001.01                 Iteration 5: Removing ( 1 ), size 12 => 11
+== LAIK-0000.00 T 2/10 0001.01                 Iteration 5: Removing ( 1 ), size 10 => 9
+== LAIK-0000.00 T 1/10 0001.01                 Iteration 5: Removing ( 1 ), size 10 => 9
+== LAIK-0000.00 T 3/10 0001.01                 Iteration 5: Removing ( 1 ), size 10 => 9
+== LAIK-0000.00 T 6/10 0001.01                 Iteration 5: Removing ( 1 ), size 10 => 9
+== LAIK-0000.00 T 7/10 0001.01                 Iteration 5: Removing ( 1 ), size 10 => 9
+== LAIK-0000.00 T 5/10 0001.01                 Iteration 5: Removing ( 1 ), size 10 => 9
+== LAIK-0000.00 T 9/10 0001.01                 Iteration 5: Removing ( 1 ), size 10 => 9
+== LAIK-0000.00 T 8/10 0001.01                 Iteration 5: Removing ( 1 ), size 10 => 9
+== LAIK-0000.00 T 0/10 0001.01                 Iteration 5: Removing ( 1 ), size 10 => 9
+== LAIK-0000.00 T 4/10 0001.01                 Iteration 5: Removing ( 1 ), size 10 => 9
+== LAIK-0000.00 T 0/8 0001.01                 Iteration 5: Removing ( 1 ), size 8 => 7
+== LAIK-0000.00 T 1/8 0001.01                 Iteration 5: Removing ( 1 ), size 8 => 7
+== LAIK-0000.00 T 2/8 0001.01                 Iteration 5: Removing ( 1 ), size 8 => 7
+== LAIK-0000.00 T 5/8 0001.01                 Iteration 5: Removing ( 1 ), size 8 => 7
+== LAIK-0000.00 T 6/8 0001.01                 Iteration 5: Removing ( 1 ), size 8 => 7
+== LAIK-0000.00 T 4/8 0001.01                 Iteration 5: Removing ( 1 ), size 8 => 7
+== LAIK-0000.00 T 7/8 0001.01                 Iteration 5: Removing ( 1 ), size 8 => 7
+== LAIK-0000.00 T 3/8 0001.01                 Iteration 5: Removing ( 1 ), size 8 => 7
+== LAIK-0000.00 T 1/6 0001.01                 Iteration 5: Removing ( 1 ), size 6 => 5
+== LAIK-0000.00 T 2/6 0001.01                 Iteration 5: Removing ( 1 ), size 6 => 5
+== LAIK-0000.00 T 5/6 0001.01                 Iteration 5: Removing ( 1 ), size 6 => 5
+== LAIK-0000.00 T 0/6 0001.01                 Iteration 5: Removing ( 1 ), size 6 => 5
+== LAIK-0000.00 T 3/6 0001.01                 Iteration 5: Removing ( 1 ), size 6 => 5
+== LAIK-0000.00 T 4/6 0001.01                 Iteration 5: Removing ( 1 ), size 6 => 5
+== LAIK-0000.00 T 3/4 0001.01                 Iteration 5: Removing ( 1 ), size 4 => 3
+== LAIK-0000.00 T 0/4 0001.01                 Iteration 5: Removing ( 1 ), size 4 => 3
+== LAIK-0000.00 T 1/4 0001.01                 Iteration 5: Removing ( 1 ), size 4 => 3
+== LAIK-0000.00 T 2/4 0001.01                 Iteration 5: Removing ( 1 ), size 4 => 3
+== LAIK-0000.00 T 0/2 0001.01                 Iteration 5: Removing ( 1 ), size 2 => 1
+== LAIK-0000.00 T 1/2 0001.01                 Iteration 5: Removing ( 1 ), size 2 => 1
+== LAIK-0000.00 T 4/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T20/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T22/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T24/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T26/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T18/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T21/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T25/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T19/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T23/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T12/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T27/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T 1/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T14/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T16/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T17/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T 8/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T10/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T15/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T 0/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T 2/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T13/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T 6/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T 5/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T11/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T 9/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T 7/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T 3/28 0001.01                 Iteration 5: Removing ( 1 ), size 28 => 27
+== LAIK-0000.00 T15/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T19/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T23/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T24/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T12/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T18/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T20/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T22/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T 3/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T 7/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T11/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T14/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T21/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T 4/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T16/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T25/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T 8/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T17/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T13/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T10/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T 9/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T 0/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T 2/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T 5/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T 6/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T 1/26 0001.01                 Iteration 5: Removing ( 1 ), size 26 => 25
+== LAIK-0000.00 T 7/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T15/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T 3/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T 8/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T11/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T19/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T23/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T13/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T18/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T 6/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T20/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T17/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T 4/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T 9/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T16/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T21/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T 5/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T10/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T14/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T 1/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T 0/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T 2/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T12/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T22/24 0001.01                 Iteration 5: Removing ( 1 ), size 24 => 23
+== LAIK-0000.00 T19/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T 7/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T15/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T 6/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T 3/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T 4/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T14/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T 2/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T11/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T 8/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T10/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T16/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T20/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T18/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T 0/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T 5/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T21/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T12/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T17/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T 9/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T13/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T 1/22 0001.01                 Iteration 5: Removing ( 1 ), size 22 => 21
+== LAIK-0000.00 T 9/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T13/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T17/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T 5/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T 7/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T 3/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T 6/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T10/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T 1/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T11/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T14/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T12/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T16/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T 2/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T15/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T18/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T 8/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T19/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T 4/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T 0/20 0001.01                 Iteration 5: Removing ( 1 ), size 20 => 19
+== LAIK-0000.00 T15/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T10/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T14/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T16/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T17/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T 6/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T11/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T 7/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T 8/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T 4/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T12/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T13/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T 9/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T 5/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T 2/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T 3/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T 0/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T 1/18 0001.01                 Iteration 5: Removing ( 1 ), size 18 => 17
+== LAIK-0000.00 T 0/16 0001.01                 Iteration 5: Removing ( 1 ), size 16 => 15
+== LAIK-0000.00 T 3/16 0001.01                 Iteration 5: Removing ( 1 ), size 16 => 15
+== LAIK-0000.00 T 2/16 0001.01                 Iteration 5: Removing ( 1 ), size 16 => 15
+== LAIK-0000.00 T11/16 0001.01                 Iteration 5: Removing ( 1 ), size 16 => 15
+== LAIK-0000.00 T14/16 0001.01                 Iteration 5: Removing ( 1 ), size 16 => 15
+== LAIK-0000.00 T 6/16 0001.01                 Iteration 5: Removing ( 1 ), size 16 => 15
+== LAIK-0000.00 T 7/16 0001.01                 Iteration 5: Removing ( 1 ), size 16 => 15
+== LAIK-0000.00 T 5/16 0001.01                 Iteration 5: Removing ( 1 ), size 16 => 15
+== LAIK-0000.00 T 1/16 0001.01                 Iteration 5: Removing ( 1 ), size 16 => 15
+== LAIK-0000.00 T 9/16 0001.01                 Iteration 5: Removing ( 1 ), size 16 => 15
+== LAIK-0000.00 T10/16 0001.01                 Iteration 5: Removing ( 1 ), size 16 => 15
+== LAIK-0000.00 T 4/16 0001.01                 Iteration 5: Removing ( 1 ), size 16 => 15
+== LAIK-0000.00 T15/16 0001.01                 Iteration 5: Removing ( 1 ), size 16 => 15
+== LAIK-0000.00 T12/16 0001.01                 Iteration 5: Removing ( 1 ), size 16 => 15
+== LAIK-0000.00 T13/16 0001.01                 Iteration 5: Removing ( 1 ), size 16 => 15
+== LAIK-0000.00 T 8/16 0001.01                 Iteration 5: Removing ( 1 ), size 16 => 15
+== LAIK-0000.00 T 6/14 0001.01                 Iteration 5: Removing ( 1 ), size 14 => 13
+== LAIK-0000.00 T 4/14 0001.01                 Iteration 5: Removing ( 1 ), size 14 => 13
+== LAIK-0000.00 T10/14 0001.01                 Iteration 5: Removing ( 1 ), size 14 => 13
+== LAIK-0000.00 T 0/14 0001.01                 Iteration 5: Removing ( 1 ), size 14 => 13
+== LAIK-0000.00 T 2/14 0001.01                 Iteration 5: Removing ( 1 ), size 14 => 13
+== LAIK-0000.00 T 7/14 0001.01                 Iteration 5: Removing ( 1 ), size 14 => 13
+== LAIK-0000.00 T11/14 0001.01                 Iteration 5: Removing ( 1 ), size 14 => 13
+== LAIK-0000.00 T12/14 0001.01                 Iteration 5: Removing ( 1 ), size 14 => 13
+== LAIK-0000.00 T 5/14 0001.01                 Iteration 5: Removing ( 1 ), size 14 => 13
+== LAIK-0000.00 T13/14 0001.01                 Iteration 5: Removing ( 1 ), size 14 => 13
+== LAIK-0000.00 T 1/14 0001.01                 Iteration 5: Removing ( 1 ), size 14 => 13
+== LAIK-0000.00 T 3/14 0001.01                 Iteration 5: Removing ( 1 ), size 14 => 13
+== LAIK-0000.00 T 8/14 0001.01                 Iteration 5: Removing ( 1 ), size 14 => 13
+== LAIK-0000.00 T 9/14 0001.01                 Iteration 5: Removing ( 1 ), size 14 => 13
+== LAIK-0000.00 T11/12 0001.01                 Iteration 5: Removing ( 1 ), size 12 => 11
+== LAIK-0000.00 T 3/12 0001.01                 Iteration 5: Removing ( 1 ), size 12 => 11
+== LAIK-0000.00 T 4/12 0001.01                 Iteration 5: Removing ( 1 ), size 12 => 11
+== LAIK-0000.00 T 1/12 0001.01                 Iteration 5: Removing ( 1 ), size 12 => 11
+== LAIK-0000.00 T 9/12 0001.01                 Iteration 5: Removing ( 1 ), size 12 => 11
+== LAIK-0000.00 T 5/12 0001.01                 Iteration 5: Removing ( 1 ), size 12 => 11
+== LAIK-0000.00 T10/12 0001.01                 Iteration 5: Removing ( 1 ), size 12 => 11
+== LAIK-0000.00 T 0/12 0001.01                 Iteration 5: Removing ( 1 ), size 12 => 11
+== LAIK-0000.00 T 2/12 0001.01                 Iteration 5: Removing ( 1 ), size 12 => 11
+== LAIK-0000.00 T 7/12 0001.01                 Iteration 5: Removing ( 1 ), size 12 => 11
+== LAIK-0000.00 T 6/12 0001.01                 Iteration 5: Removing ( 1 ), size 12 => 11
+== LAIK-0000.00 T 8/12 0001.01                 Iteration 5: Removing ( 1 ), size 12 => 11
+== LAIK-0000.00 T 8/10 0001.01                 Iteration 5: Removing ( 1 ), size 10 => 9
+== LAIK-0000.00 T 6/10 0001.01                 Iteration 5: Removing ( 1 ), size 10 => 9
+== LAIK-0000.00 T 9/10 0001.01                 Iteration 5: Removing ( 1 ), size 10 => 9
+== LAIK-0000.00 T 7/10 0001.01                 Iteration 5: Removing ( 1 ), size 10 => 9
+== LAIK-0000.00 T 2/10 0001.01                 Iteration 5: Removing ( 1 ), size 10 => 9
+== LAIK-0000.00 T 3/10 0001.01                 Iteration 5: Removing ( 1 ), size 10 => 9
+== LAIK-0000.00 T 0/10 0001.01                 Iteration 5: Removing ( 1 ), size 10 => 9
+== LAIK-0000.00 T 1/10 0001.01                 Iteration 5: Removing ( 1 ), size 10 => 9
+== LAIK-0000.00 T 4/10 0001.01                 Iteration 5: Removing ( 1 ), size 10 => 9
+== LAIK-0000.00 T 5/10 0001.01                 Iteration 5: Removing ( 1 ), size 10 => 9
+== LAIK-0000.00 T 0/8 0001.01                 Iteration 5: Removing ( 1 ), size 8 => 7
+== LAIK-0000.00 T 1/8 0001.01                 Iteration 5: Removing ( 1 ), size 8 => 7
+== LAIK-0000.00 T 6/8 0001.01                 Iteration 5: Removing ( 1 ), size 8 => 7
+== LAIK-0000.00 T 2/8 0001.01                 Iteration 5: Removing ( 1 ), size 8 => 7
+== LAIK-0000.00 T 7/8 0001.01                 Iteration 5: Removing ( 1 ), size 8 => 7
+== LAIK-0000.00 T 3/8 0001.01                 Iteration 5: Removing ( 1 ), size 8 => 7
+== LAIK-0000.00 T 4/8 0001.01                 Iteration 5: Removing ( 1 ), size 8 => 7
+== LAIK-0000.00 T 5/8 0001.01                 Iteration 5: Removing ( 1 ), size 8 => 7
+== LAIK-0000.00 T 2/6 0001.01                 Iteration 5: Removing ( 1 ), size 6 => 5
+== LAIK-0000.00 T 5/6 0001.01                 Iteration 5: Removing ( 1 ), size 6 => 5
+== LAIK-0000.00 T 0/6 0001.01                 Iteration 5: Removing ( 1 ), size 6 => 5
+== LAIK-0000.00 T 3/6 0001.01                 Iteration 5: Removing ( 1 ), size 6 => 5
+== LAIK-0000.00 T 1/6 0001.01                 Iteration 5: Removing ( 1 ), size 6 => 5
+== LAIK-0000.00 T 4/6 0001.01                 Iteration 5: Removing ( 1 ), size 6 => 5
+== LAIK-0000.00 T 3/4 0001.01                 Iteration 5: Removing ( 1 ), size 4 => 3
+== LAIK-0000.00 T 0/4 0001.01                 Iteration 5: Removing ( 1 ), size 4 => 3
+== LAIK-0000.00 T 2/4 0001.01                 Iteration 5: Removing ( 1 ), size 4 => 3
+== LAIK-0000.00 T 1/4 0001.01                 Iteration 5: Removing ( 1 ), size 4 => 3
+== LAIK-0000.00 T 0/2 0001.01                 Iteration 5: Removing ( 1 ), size 2 => 1
+== LAIK-0000.00 T 1/2 0001.01                 Iteration 5: Removing ( 1 ), size 2 => 1

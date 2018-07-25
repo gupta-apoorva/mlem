@@ -1,0 +1,210 @@
+CC      = mpicxx
+NVCC    = nvcc
+RM      = rm -f
+
+-include Makefile.config
+
+MLEM_CU_VER_DIR = mlem_cuda/versions
+MLEM_MPI_DIR = mlem_mpi
+MLEM_OMP_DIR = mlem_openmp
+MLEM_SEQ_DIR = mlem_seq
+
+HELPER_FILES_CU_DIR = mlem_cuda/helper_files
+HELPER_FILES_COMMON = helper_files_common
+
+
+CFLAGS  = -Wall -D_HPC_ -DMESSUNG -O3 -std=c++11 -fstrict-aliasing
+OMP_FLAGS = -fopenmp
+
+
+CU_OMP_FLAGS_COMP = -Xcompiler -fopenmp
+CU_CFLAGS  = -D_HPC_ -DMESSUNG -O3 -std=c++11 -D_MWAITXINTRIN_H_INCLUDED -D_FORCE_INLINES -D__STRICT_ANSI__ -D_GLIBCXX_USE_CXX11_ABI=0
+CU_LFLAGS  = -L/lrz/sys/intel/impi/5.1.3.181/lib64 -L/lrz/sys/libraries/boost/1.61_gcc/lib -L./nvml/usr/src/gdk/nvml/lib
+CU_IFLAGS  = -I/lrz/sys/intel/impi/5.1.3.181/intel64/include -I/lrz/sys/libraries/boost/1.61_gcc/ -I/lrz/sys/libraries/boost/1.61_gcc/include/ -I./nvml/usr/include/nvidia/gdk
+CU_FLAGS = -lcublas -lcusparse -lmpi -lgomp -lnvidia-ml -lboost_system -lboost_filesystem
+
+
+SOURCES = csr4matrix.cpp scannerconfig.cpp
+HEADERS = csr4matrix.hpp vector.hpp matrixelement.hpp scannerconfig.hpp
+OBJECTS = $(SOURCES:%.cpp=%.o) profiling.o
+
+
+CUDA_SOURCES = helper.cu decideConfig.cu cudaKernels.cu hybCalcFunc.cu helper_v_7_8.cu
+CUDA_HEADERS = helper.cuh decideConfig.cuh cudaKernels.cuh hybCalcFunc.cuh helper_v_7_8.cuh
+CUDA_OBJECTS = $(CUDA_SOURCES:%.cu=%.o)
+
+
+EXP_FLAGS = -I/lrz/sys/libraries/boost/1.61_gcc/ -I/lrz/sys/libraries/boost/1.61_gcc/include/ -I/home/hpc/pr63qi/ga58qob3/.openmpi/include -L/home/hpc/pr63qi/ga58qob3/.openmpi/lib -L/lrz/sys/libraries/boost/1.61_gcc/lib -L./nvml/usr/src/gdk/nvml/lib -I./nvml/usr/include/nvidia/gdk -L/home/hpc/pr63qi/ga58qob3/.openmpi/lib/openmpi
+
+
+# LAIK lib
+# LAIKLIB = -L$(LAIK_ROOT)/ -llaik
+# CFLAGS += -I$(LAIK_ROOT)/include $(BOOST_INC)
+
+
+all: version_1 version_2 version_3 version_4 version_5 version_6 version_7 version_8 version_9 mpicsr4mlem fusedmpimlem openmpcsr4mlem seqcsr4mlem #laikcsr4mlem-repart laikcsr4mlem	
+
+
+###############  VERSION 1 ################
+# CUSPARSE OPERATIONS AND PAGABLE MEMORY #
+
+version_1: version_1.o $(OBJECTS) $(CUDA_OBJECTS)
+	$(NVCC) $(CU_FLAGS) $(CU_LFLAGS) $(CU_IFLAGS) $(CU_CFLAGS) $(DEFS) -o $@ version_1.o  $(OBJECTS) $(CUDA_OBJECTS)
+
+version_1.o: $(MLEM_CU_VER_DIR)/version_1.cu
+	$(NVCC) $(CU_FLAGS) $(CU_CFLAGS) $(CU_IFLAGS) $(CU_LFLAGS) $(DEFS) -o $@ -c $<
+
+
+###############  VERSION 2 ################
+#  CUSPARSE OPERATIONS AND PINNED MEMORY  #
+
+version_2: version_2.o $(OBJECTS) $(CUDA_OBJECTS)
+	$(NVCC) $(CU_FLAGS) $(CU_LFLAGS) $(CU_IFLAGS) $(CU_CFLAGS) $(DEFS) -o $@ version_2.o $(OBJECTS) $(CUDA_OBJECTS)
+
+version_2.o: $(MLEM_CU_VER_DIR)/version_2.cu
+	$(NVCC) $(CU_FLAGS) $(CU_CFLAGS) $(CU_IFLAGS) $(CU_LFLAGS) $(DEFS) -o $@ -c $<
+
+
+###############  VERSION 3 ################
+# CUSPARSE OPERATIONS AND CUDA AWARE #
+
+version_3: version_3.o $(OBJECTS) $(CUDA_OBJECTS)
+	$(NVCC) $(CU_FLAGS) $(CU_CFLAGS) $(DEFS) $(EXP_FLAGS) -o $@ version_3.o $(OBJECTS) $(CUDA_OBJECTS)
+
+version_3.o: $(MLEM_CU_VER_DIR)/version_3.cu
+	$(NVCC) $(CU_FLAGS) $(CU_CFLAGS) $(DEFS) $(EXP_FLAGS) -o $@ -c $<
+
+
+###############  VERSION 4 ################
+# CUSTOM KERNELS NON WARP AND CUDA AWARE #
+
+version_4: version_4.o $(OBJECTS) $(CUDA_OBJECTS)
+	$(NVCC) $(CU_FLAGS) $(CU_LFLAGS) $(CU_IFLAGS) $(CU_CFLAGS) $(DEFS) -o $@ version_4.o $(OBJECTS) $(CUDA_OBJECTS)
+
+version_4.o: $(MLEM_CU_VER_DIR)/version_4.cu
+	$(NVCC) $(CU_FLAGS) $(CU_CFLAGS) $(CU_IFLAGS) $(CU_LFLAGS) $(DEFS) -o $@ -c $<
+
+
+###############  VERSION 5 ################
+# CUSTOM KERNELS WARP AND CUDA AWARE #
+
+version_5: version_5.o $(OBJECTS) $(CUDA_OBJECTS)
+	$(NVCC) $(CU_FLAGS) $(CU_LFLAGS) $(CU_IFLAGS) $(CU_CFLAGS) $(DEFS) -o $@ version_5.o $(OBJECTS) $(CUDA_OBJECTS)
+
+version_5.o: $(MLEM_CU_VER_DIR)/version_5.cu
+	$(NVCC) $(CU_FLAGS) $(CU_CFLAGS) $(CU_IFLAGS) $(CU_LFLAGS) $(DEFS) -o $@ -c $<
+
+
+###############  VERSION 6 ################
+# CUSTOM KERNELS WARP AND PINNED MEMORY #
+
+version_6: version_6.o $(OBJECTS) $(CUDA_OBJECTS)
+	$(NVCC) $(CU_FLAGS) $(CU_LFLAGS) $(CU_IFLAGS) $(CU_CFLAGS) $(DEFS) -o $@ version_6.o $(OBJECTS) $(CUDA_OBJECTS)
+
+version_6.o: $(MLEM_CU_VER_DIR)/version_6.cu
+	$(NVCC) $(CU_FLAGS) $(CU_CFLAGS) $(CU_IFLAGS) $(CU_LFLAGS) $(DEFS) -o $@ -c $<
+
+
+###############  VERSION 7 ################
+# CUSTOM KERNELS WARP AND PINNED MEMORY #
+
+# BREAKS THE PART AND SOLVES ALL THE PARTS ON GPU IF GPU MEM IS NOT ENOUGH TO SAVE
+# ALL THE DATA IN ONE GO #
+
+version_7: version_7.o $(OBJECTS) $(CUDA_OBJECTS)
+	$(NVCC) $(CU_FLAGS) $(CU_LFLAGS) $(CU_IFLAGS) $(CU_CFLAGS) $(DEFS) -o $@ version_7.o $(OBJECTS) $(CUDA_OBJECTS)
+
+version_7.o: $(MLEM_CU_VER_DIR)/version_7.cu
+	$(NVCC) $(CU_FLAGS) $(CU_CFLAGS) $(CU_IFLAGS) $(CU_LFLAGS) $(DEFS) -o $@ -c $<
+
+
+###############  VERSION 8 ################
+# CUSTOM KERNELS WARP AND PINNED MEMORY #
+
+# BREAKS THE PART AND SOLVES ALL THE PARTS ON GPU IF GPU MEM IS NOT ENOUGH TO SAVE
+# ALL THE DATA IN ONE GO #
+
+# IMPLEMENTS THE FUSED VERSION OF THE CODE #
+
+version_8: version_8.o $(OBJECTS) $(CUDA_OBJECTS)
+	$(NVCC) $(CU_FLAGS) $(CU_LFLAGS) $(CU_IFLAGS) $(CU_CFLAGS) $(DEFS) -o $@ version_8.o $(OBJECTS) $(CUDA_OBJECTS)
+
+version_8.o: $(MLEM_CU_VER_DIR)/version_8.cu
+	$(NVCC) $(CU_FLAGS) $(CU_CFLAGS) $(CU_IFLAGS) $(CU_LFLAGS) $(DEFS) -o $@ -c $<
+
+
+###############  VERSION 9 ################
+# CUSTOM KERNELS WARP AND PINNED MEMORY #
+
+# BREAKS THE PART AND SOLVES ONE PART ON GPU AND ONE ON CPU IF GPU MEM IS NOT ENOUGH
+# TO SAVE ALL THE DATA IN ONE GO #
+
+# IMPLEMENTS THE FUSED VERSION OF THE CODE
+
+version_9: version_9.o $(OBJECTS) $(CUDA_OBJECTS)
+	$(NVCC) $(CU_FLAGS) $(CU_LFLAGS) $(CU_IFLAGS) $(CU_CFLAGS) $(DEFS) -o $@ version_9.o $(OBJECTS) $(CUDA_OBJECTS)
+
+version_9.o: $(MLEM_CU_VER_DIR)/version_9.cu
+	$(NVCC) $(CU_FLAGS) $(CU_CFLAGS) $(CU_IFLAGS) $(CU_LFLAGS) $(DEFS) $(CU_OMP_FLAGS_COMP) -o $@ -c $<
+
+
+########## CUDA FILES COMPILATION USING NVCC ##########
+
+%.o: $(HELPER_FILES_CU_DIR)/%.cu
+	$(NVCC) $(CU_FLAGS) $(CU_CFLAGS) $(CU_IFLAGS) $(CU_LFLAGS) $(DEFS) $(CU_OMP_FLAGS_COMP) -o $@ -c $< 
+
+#%.o: $(HELPER_FILES_CU_DIR)/%.cu
+#	$(NVCC) $(CU_FLAGS) $(CU_CFLAGS) $(DEFS) $(EXP_FLAGS) -o $@ -c $< 
+
+
+########## CPP FILES COMPILATION USING MPICC ##########
+
+#%.o: $(HELPER_FILES_COMMON)/%.cpp
+#	$(CC) $(CU_CFLAGS) $(OMP_FLAGS) $(DEFS) $(EXP_FLAGS) -o $@ -c $< 
+
+%.o: $(HELPER_FILES_COMMON)/%.cpp
+	$(CC) $(CU_CFLAGS) $(CU_IFLAGS) $(DEFS) $(OMP_FLAGS) -o $@ -c $< 
+
+%.o: $(MLEM_SEQ_DIR)/%.cpp
+	$(CC) $(CU_CFLAGS) $(CU_IFLAGS) $(DEFS) $(OMP_FLAGS) -o $@ -c $< 
+
+%.o: $(MLEM_OMP_DIR)/%.cpp
+	$(CC) $(CU_CFLAGS) $(CU_IFLAGS) $(DEFS) $(OMP_FLAGS) -o $@ -c $< 
+
+%.o: $(MLEM_MPI_DIR)/%.cpp
+	$(CC) $(CU_CFLAGS) $(CU_IFLAGS) $(DEFS) $(OMP_FLAGS) -o $@ -c $< 
+
+%.o: $(HELPER_FILES_COMMON)/%.c
+	$(CC) $(CFLAGS) $(DEFS) -o profiling.o -c $< -lrt
+
+########## CPU FILES COMPILATION USING MPICC ##########
+
+seqcsr4mlem: seqcsr4mlem.o $(OBJECTS)
+	$(CC) $(LFLAGS) $(DEFS) -o $@ seqcsr4mlem.o $(OBJECTS)
+
+mpicsr4mlem: mpicsr4mlem.o $(OBJECTS)
+	$(CC) $(LFLAGS) $(DEFS) -o $@ mpicsr4mlem.o $(OBJECTS)
+
+fusedmpimlem: fusedmpimlem.o $(OBJECTS)
+	$(CC) $(LFLAGS) $(DEFS) -o $@ $< $(OBJECTS)
+
+openmpcsr4mlem: openmpcsr4mlem.o $(OBJECTS)
+	$(CC) $(LFLAGS) $(DEFS) $(OMP_FLAGS) -o $@ $< $(OBJECTS)
+
+laikcsr4mlem: laikcsr4mlem.o $(OBJECTS)
+	$(CC) $(LFLAGS) $(DEFS) -o $@ laikcsr4mlem.o $(OBJECTS) $(LAIKLIB)
+
+laikcsr4mlem-repart: laikcsr4mlem-repart.o $(OBJECTS)
+	$(CC) $(LFLAGS) $(DEFS) -o $@ laikcsr4mlem-repart.o $(OBJECTS) $(LAIKLIB)
+
+laikfusedcsr4mlem: laikfusedcsr4mlem.o $(OBJECTS)
+	$(CC) $(LFLAGS) $(DEFS) -o $@ $< $(OBJECTS) $(LAIKLIB)
+
+########## CLEANING THE DIRECTORY ########
+ 
+clean:
+	- $(RM) *.o version_* fusedmpimlem mpicsr4mlem openmpcsr4mlem seqcsr4mlem
+
+distclean: clean
+	- $(RM) *.c~ *.h~
+	

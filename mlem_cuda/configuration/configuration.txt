@@ -1,0 +1,21 @@
+#########################  CONFIGURATION FILE  ############################
+
+# Allows the user to set the maximum number of GPUs each process could use. Allowed Range is [0,3]. Default value is 3.
+max_devices_to_use  -1
+
+# Allows the user to define how many non zeros be offloaded on each GPU. Allowed range is [0 , non zeros per rank]. Default value is non zeros per rank.
+max_nnz_per_device -1
+
+# Maximum GPU temperature to be selected. Allowed range is [0,100]. Default value is 100.
+max_temp_allowed -100
+
+# Minimum memory percentage of GPU to be free for its selection. Allowed Range is [0,100]. Default value is 100.
+ 
+# Maximum memory percentage utilization of GPU for its selection. Allowed Range is [0,100]. Default value is 100.
+max_mem_uti_allowed -25 
+
+# Max compute power percentage utilization of GPU for its selection. Allowed Range is [0,100]. Default value is 100.
+max_gpu_uti_allowed -25
+
+
+NOTE:: Negative value means that the code will use the default parameters.
