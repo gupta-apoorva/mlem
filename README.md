@@ -6,34 +6,36 @@ The efficient use of multicore architectures for sparse matrix-vector multiplica
 - Initial Verison and Algorithmic, MPI Version: Tilman Kuestner
 - LAIK Version, HPC Optimization: Josef Weidendorfer
 - LAIK Version, Measurements, HPC Optimizations: Dai Yang
+- CUDA Version, Measurements, HPC Optimizations: Apoorva Gupta
 - Generators: Thorsten Fuchs
 
 ## Dependencies
 - [libb0ost 1.58](http://boost.org/), for the iterators and program options.
 - C++ 11, GNU Compiler
 - OpenMP Support
+- CUDA Aware MPI Support
+- CUDA Support 
 - libconfig++
 - [LAIK Library](https://github.com/envelope-project/laik)
 
 ## Usage
 Different versions are supplied within this repository. 
-- mpicsr4mlem: the native MPI Version without LAIK support.
-- laikcsr4mlem: the LAIK version without repartitioning support. 
-- laikcsr4mlem-repart: LAIK version with explicit repartitioning. 
-- csr4gen/csr4gen: The CSR (Compressed Sparse Rows) matrix generator. 
-- singen/singen: The sinogram (image raw data) generator. 
-
+- mlem_seq/seqcsr4mlem: Sequential implementation of the algorithm.
+- mlem_mpi/mpicsr4mlem: the native MPI Version.
+- mlem_mpi/fusedmpimlem: the native MPI version with fused version of the algorithm.
+- mlem_laik/laikcsr4mlem: the LAIK version without repartitioning support. 
+- mlem_laik/laikcsr4mlem-repart: LAIK version with explicit repartitioning. 
+- mlem_openmp/openmpcsr4mlem: the native OpenMP implementation
+- mlem_cuda/versions: The different CUDA implementations of the algorithm.  
 
 ### Compile
 ```sh
  make
 ```
 ### Generate a Sparse Matrix for Testing
-```sh
-./csr4gen/csr4gen -c ./examples/madpet2.cfg -d 0.01 -v 0.1 -f test.csr4
-./singen/singen 65536
-```
-### Run the nativ MPI Version
+- [Generators](https://github.com/envelope-project/mlem) 
+
+### Run the native MPI Version
 ```sh
 mpirun -np <num_tasks> ./mpicsr4mlem <matrix> <input> <output> <iterations> <checkpointing>
 ```
@@ -49,6 +51,15 @@ mpirun -np <num_tasks> ./laikcsr4mlem <matrix> <input> <output> <iterations>
 ```sh
 mpirun -np 4 ./laikcsr4mlem test.csr4 sino65536.sino mlem-60.out 60 0
 ```
+### Run the CUDA implementation
+```sh
+mpirun -np <num_tasks> ./version_[1-9] <matrix> <input> <output> <iterations> <checkpointing>
+```
+### native mpi example
+```sh
+mpirun -np 4 ./version_[1-9] test.csr4 sino65536.sino mlem-60.out 60 0
+```
+
 
 ## Build Flags:
 - -D\_HPC\_ enables the HPC optimization of this code. It uses memcpy instead of mmap to optimize NUMA operations. 
